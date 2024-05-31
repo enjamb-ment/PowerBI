@@ -1,0 +1,3 @@
+This is a readme... so read me.
+
+PowerBI practice.  Dashboard making, maybe eventually some DAX code.  I've got nothing for now...
